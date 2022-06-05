@@ -36,4 +36,4 @@ International University "MITSO"
   + [PSYCHOLOGY IN GAME DEVELOPMENT](https://www.devtodev.com/education/online-course/certificate/lYsa0al_slW5paK9P23x_Q)
 _ _ _
 ## English
-English lvl: A1 (A2 in process).
+English lvl: A2 (A2+ in process).
